@@ -1,0 +1,4 @@
+*.aftonbladet.se
+*.forsvarsmakten.se
+*.arbetsformedlingen.se
+*.omni.se
